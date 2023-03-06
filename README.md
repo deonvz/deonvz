@@ -3,11 +3,11 @@
 - 💬 I talk about development, automation, AI and cyber security.
 - ⚡ I share some of my private works here for others to use or tincker with.
 
-| Examples                                                                                                                                                                                      |                                                                                                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![1678105488671](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/deva/OneDrive%20-%20Nordic%20Semiconductor/Documents/Code/deonvz/image/README/1678105488671.png)                       | ![1678106127118](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/deva/OneDrive%20-%20Nordic%20Semiconductor/Documents/Code/deonvz/image/README/1678106127118.png)                       |
-| ![1678106402674](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/deva/OneDrive%20-%20Nordic%20Semiconductor/Documents/Code/deonvz/image/README/1678106402674.png)<br /><br />Automation | ![1678106297908](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/deva/OneDrive%20-%20Nordic%20Semiconductor/Documents/Code/deonvz/image/README/1678106297908.png)<br />Conversion tools |
-| ![1678106578537](image/README/1678106578537.png)<br />Object & Image recognition                                                                                                                | ![1678106597996](image/README/1678106597996.png)<br />Code for Web                                                                                                                              |
+| Examples                                                                       |                                                                      |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| ![1678107167230](image/README/1678107167230.png)                                 | ![1678107174572](image/README/1678107174572.png)                       |
+| ![1678107137174](image/README/1678107137174.png)<br /><br />Automation           | ![1678107153608](image/README/1678107153608.png)<br />Conversion tools |
+| ![1678106578537](image/README/1678106578537.png)<br />Object & Image recognition | ![1678106597996](image/README/1678106597996.png)<br />Code for Web     |
 
 <!--
 **deonvz/deonvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
