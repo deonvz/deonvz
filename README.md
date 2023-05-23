@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 I talk about development, automation, AI and cyber security.
+- 💬 I focus on development, automation, AI and cyber security.
 - ⚡ I share some of my private work here for others to use.
 
 | Examples                                                                       |                                                                      |
