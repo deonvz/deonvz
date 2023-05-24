@@ -3,6 +3,8 @@
 - 💬 I focus on development, automation, AI and cyber security.
 - ⚡ I share some of my private work here for others to use.
 
+Feel free to follow me or any of my repos, you wish to contribute to.
+
 | Examples                                                                       |                                                                      |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
 | ![1678107167230](image/README/1678107167230.png)<br />AI                         | ![1678107174572](image/README/1678107174572.png)<br />Art              |
