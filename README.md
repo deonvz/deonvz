@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 I focus on development, automation, AI and cyber security.
+- 💬 I focus on development, automation, some ML and cyber security.
 - ⚡ I share some of my private work here for others to use.
 
 Feel free to follow me or any of my repos, you wish to contribute to.
