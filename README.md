@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-💬 I specialize in development, automation, machine learning, and cybersecurity.
-⚡ I share select personal projects here for others to benefit from.
-🔭 I explore the latest innovations in AI, cybersecurity, and technology—follow my insights here: https://medium.com/@deonzyl
+💬 I specialize in development, automation and cybersecurity. ⚡ I share select personal projects here for others to benefit from.
 
 Feel free to follow me or any of my repos, you wish to contribute to.
 
